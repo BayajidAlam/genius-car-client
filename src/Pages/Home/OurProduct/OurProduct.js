@@ -38,7 +38,7 @@ const OurProduct = () => {
         </div>
         <div className="text-center lg:w-[364px] mx-auto">
           <div className="lg:w-[326px] h-[215px] bg-[#F3F3F3] flex justify-center items-center rounded-lg mx-auto">
-            <img src={im1} className="w-38 h-36" alt="" />
+            <img src={im2} className="w-38 h-36" alt="" />
           </div>
           <div className="flex justify-center">
             <AiTwotoneStar className="mx-2 my-2" />
@@ -52,7 +52,7 @@ const OurProduct = () => {
         </div>
         <div className="text-center lg:w-[364px] mx-auto">
           <div className="lg:w-[326px] h-[215px] bg-[#F3F3F3] flex justify-center items-center rounded-lg mx-auto">
-            <img src={im1} className="w-38 h-36" alt="" />
+            <img src={im3} className="w-38 h-36" alt="" />
           </div>
           <div className="flex justify-center">
             <AiTwotoneStar className="mx-2 my-2" />
@@ -66,7 +66,7 @@ const OurProduct = () => {
         </div>
         <div className="text-center lg:w-[364px] mx-auto">
           <div className="lg:w-[326px] h-[215px] bg-[#F3F3F3] flex justify-center items-center rounded-lg mx-auto">
-            <img src={im1} className="w-38 h-36" alt="" />
+            <img src={im4} className="w-38 h-36" alt="" />
           </div>
           <div className="flex justify-center">
             <AiTwotoneStar className="mx-2 my-2" />
@@ -80,7 +80,7 @@ const OurProduct = () => {
         </div>
         <div className="text-center lg:w-[364px] mx-auto">
           <div className="lg:w-[326px] h-[215px] bg-[#F3F3F3] flex justify-center items-center rounded-lg mx-auto">
-            <img src={im1} className="w-38 h-36" alt="" />
+            <img src={im5} className="w-38 h-36" alt="" />
           </div>
           <div className="flex justify-center">
             <AiTwotoneStar className="mx-2 my-2" />
@@ -94,7 +94,7 @@ const OurProduct = () => {
         </div>
         <div className="text-center lg:w-[364px] mx-auto">
           <div className="lg:w-[326px] h-[215px] bg-[#F3F3F3] flex justify-center items-center rounded-lg mx-auto">
-            <img src={im1} className="w-38 h-36" alt="" />
+            <img src={im6} className="w-38 h-36" alt="" />
           </div>
           <div className="flex justify-center">
             <AiTwotoneStar className="mx-2 my-2" />
