@@ -1,6 +1,4 @@
 import React from "react";
-import { BiLeftArrowAlt } from "react-icons/bi";
-import { AiOutlineArrowRight } from "react-icons/ai";
 import img1 from "../../../assets/images/banner/1.jpg";
 import img2 from "../../../assets/images/banner/2.jpg";
 import img3 from "../../../assets/images/banner/3.jpg";
@@ -51,7 +49,7 @@ const bannerData = [
 
 const Banner = () => {
   return (
-    <div className="carousel w-full">
+    <div className="carousel w-full my-20  rounded-lg">
 
       {
         bannerData.map(slide => <BannerItem
