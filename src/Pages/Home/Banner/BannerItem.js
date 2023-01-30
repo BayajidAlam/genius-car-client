@@ -11,7 +11,7 @@ const BannerItem = ({slide}) => {
       </div>
       {/* top section  */}
       <div className="absolute flex transform -translate-y-1/2 top-1/4 left-24">
-        <h1 className="text-6xl font-bold text-white">
+        <h1 className="lg:text-6xl font-bold text-white">
           Affordable
           <br />
           Price For Car
@@ -28,7 +28,7 @@ const BannerItem = ({slide}) => {
       </div>
       {/* last section of banner  */}
       <div className="absolute flex transform -translate-y-1/2 top-3/4 left-24">
-        <button className="btn btn-warning mr-5">Discover More</button>
+        <button className="btn btn-warning lg:mr-5 mr-2">Discover More</button>
         <button className="btn btn-outline btn-success">Latest Project</button>
       </div>
 
